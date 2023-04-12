@@ -16,6 +16,7 @@ function App() {
             <Button color='inherit' variant='outlined'>Вход</Button>
           </Box>
           <Button color='secondary' variant='contained'>Регистрация</Button>
+          <Button color='secondary' variant='contained'>Test</Button>
         </Toolbar>
       </Container>
     </AppBar>
